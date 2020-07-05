@@ -18,7 +18,7 @@ layout: default
 
 4) Gemas pagas e grátis, a diferenciação só existe para os whales saberem quantos cristais eles compraram;
 
-5) A única experiência que você ganha de zerar as fases (stage clear) é experiência de rank;
+5) A única experiência que você ganha ao zerar as fases (stage clear) é experiência de rank;
 
 6) Jogue com o quê ou quem você gosta;
 
