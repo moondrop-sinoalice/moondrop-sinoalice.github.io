@@ -5,6 +5,11 @@ layout: default
 
 # **Dicas Rápidas**
 ---
+<p style="text-align:left;">
+   <i>Tradução: <b>~</b>🌼Rozeal</i>
+   <span style="float:right;"><i>2020-07-04</i></span>
+</p>
+
 1) Farme o evento **Shattered Memories** e compre as porcarias da loja de medalhas;
 
 2) Eu focaria no Job Pack mas não no RRH Cleric (clérigo da Chapéuzinho Vermelho);
@@ -44,3 +49,5 @@ layout: default
    - Experiência/pontos  de job = pontos de maestria 
 
    - Offi = discord oficial do jogo
+
+<p style="text-align:right;"><i>Source: SINoSNOW Fan Discord</i>

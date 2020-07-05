@@ -321,3 +321,7 @@ a:hover { text-decoration: underline; }
 .page-header { background-color: #000000; background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("/assets/images/sino-header.jpg"); /* Set a specific height */ height: 0%; /* Position and center the image to scale nicely on all screens */ background-position: center top; background-repeat: no-repeat; background-size: cover; background-position: relative; }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #000000; }
+
+.alignleft { float: left; }
+
+.alignright { float: right; }
